@@ -105,7 +105,14 @@ function FindProxyForURL(url, host){
 "sstc360.com",
 "ad-brix.com",
 "leadboltads.net",
-"joyingmobi.com"
+"joyingmobi.com",
+// 2016-7-24 + 屏蔽一些游戏广告
+"ngame.9157tuan.com",
+"uimg.unionli.com",
+"ad.05wan.com",
+"t2.20633.com",
+"ad.6k6.com",
+"ww202.onetad.com"
 //=========域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
     ]
